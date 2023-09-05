@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @citysiva180
-- 👀 I’m interested in Data Analytics, Machine Learning, Fullstack Development and Data Engineering 
+- 👀 I’m interested in Data Analytics, Machine Learning, DevOps and Data Engineering 
 - 🌱 I’m currently preparing to become AWS Data Engineer building amazing pipelines for ML engineers 
-- 💞️ I’m looking to collaborate on building Unity based interactive platform for data visualization which helps companies to simulate their processes
+- 💞️ I’m looking to collab on building effiecient Data Pipelines with Python, Rust and AWS services for Better performances.
 - 📫 How to reach me twitter : @citysiva180 / linkedin Siva Rajan
 
 <!---
